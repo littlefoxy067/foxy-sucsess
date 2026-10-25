@@ -1,4 +1,4 @@
-# We've Got This — A Message from Leon 🦊
+# We've Got This — A Message from foxy 🦊
 
 A mobile-friendly, single-page encouragement website for fellow KJSEA candidates.
 
